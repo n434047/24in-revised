@@ -25,9 +25,6 @@ void initialize(void);
 void disabled(void);
 void competition_initialize(void);
 void opcontrol(void);
-#define REVERSE true
-#define MUTEX_WAIT_SHORT 2
-#define TASK_DELAY_NORMAL 20
 
 
 
